@@ -1,2 +1,10 @@
 a.out
 *.out
+CMakeCache.txt
+CMakeFiles
+Makefile
+circle
+cmake_install.cmake
+lib/
+test
+
